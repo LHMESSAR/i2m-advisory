@@ -33,8 +33,8 @@ export default function MentionsLegalesPage() {
                 Capital social : [à compléter] €<br />
                 RCS Paris : [à compléter]<br />
                 Numéro de TVA intracommunautaire : [à compléter]<br />
-                Siège social : Paris, Île-de-France<br />
-                Email : <a href="mailto:contact@i2m-advisory.fr" className="text-[#2563EB] hover:underline">contact@i2m-advisory.fr</a>
+                Siège social : 52 avenue du Commerce, Roissy-en-Brie<br />
+                Email : <a href="mailto:i2m.advisory@gmail.com" className="text-[#2563EB] hover:underline">i2m.advisory@gmail.com</a>
               </p>
             </div>
 

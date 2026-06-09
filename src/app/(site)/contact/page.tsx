@@ -59,7 +59,7 @@ export default function ContactPage() {
                 <h2 className="text-sm font-bold text-[#0F172A] uppercase tracking-wider mb-5">Coordonnées</h2>
                 <div className="space-y-4">
                   <a
-                    href="mailto:contact@i2m-advisory.fr"
+                    href="mailto:i2m.advisory@gmail.com"
                     className="flex items-start gap-3 group"
                     aria-label="Envoyer un email"
                   >
@@ -68,7 +68,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="text-xs text-[#94A3B8] mb-0.5">Email</p>
-                      <p className="text-sm font-medium text-[#0F172A] group-hover:text-[#2563EB] transition-colors">contact@i2m-advisory.fr</p>
+                      <p className="text-sm font-medium text-[#0F172A] group-hover:text-[#2563EB] transition-colors">i2m.advisory@gmail.com</p>
                     </div>
                   </a>
 
@@ -78,7 +78,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="text-xs text-[#94A3B8] mb-0.5">Adresse</p>
-                      <p className="text-sm font-medium text-[#0F172A]">Paris, Île-de-France</p>
+                      <p className="text-sm font-medium text-[#0F172A]">52 avenue du Commerce, Roissy-en-Brie</p>
                       <p className="text-xs text-[#475569]">Adresse précise sur demande</p>
                     </div>
                   </div>

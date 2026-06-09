@@ -43,16 +43,16 @@ export function Footer() {
               </p>
               <div className="space-y-2">
                 <a
-                  href="mailto:contact@i2m-advisory.fr"
+                  href="mailto:i2m.advisory@gmail.com"
                   className="flex items-center gap-2 text-sm text-slate-400 hover:text-white transition-colors group"
                   aria-label="Envoyer un email à I2M Advisory"
                 >
                   <Mail className="w-4 h-4 shrink-0 group-hover:text-[#CA8A04] transition-colors" aria-hidden="true" />
-                  contact@i2m-advisory.fr
+                  i2m.advisory@gmail.com
                 </a>
                 <div className="flex items-start gap-2 text-sm text-slate-400">
                   <MapPin className="w-4 h-4 shrink-0 mt-0.5" aria-hidden="true" />
-                  <span>Paris, Île-de-France</span>
+                  <span>52 avenue du Commerce, Roissy-en-Brie</span>
                 </div>
                 <a
                   href="https://www.linkedin.com/company/i2m-advisory"

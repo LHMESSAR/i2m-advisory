@@ -30,8 +30,8 @@ export default function PolitiqueConfidentialitePage() {
             <div>
               <h2 className="text-lg font-bold text-[#0F172A] mb-3">Responsable du traitement</h2>
               <p>
-                I2M Advisory SAS, Paris, Île-de-France.<br />
-                Email : <a href="mailto:contact@i2m-advisory.fr" className="text-[#2563EB] hover:underline">contact@i2m-advisory.fr</a>
+                I2M Advisory SAS, 52 avenue du Commerce, Roissy-en-Brie.<br />
+                Email : <a href="mailto:i2m.advisory@gmail.com" className="text-[#2563EB] hover:underline">i2m.advisory@gmail.com</a>
               </p>
             </div>
 
@@ -71,8 +71,8 @@ export default function PolitiqueConfidentialitePage() {
               </p>
               <p className="mt-3">
                 Pour exercer ces droits, contactez-nous à{" "}
-                <a href="mailto:contact@i2m-advisory.fr" className="text-[#2563EB] hover:underline">
-                  contact@i2m-advisory.fr
+                <a href="mailto:i2m.advisory@gmail.com" className="text-[#2563EB] hover:underline">
+                  i2m.advisory@gmail.com
                 </a>.
                 En cas de réclamation, vous pouvez contacter la CNIL :{" "}
                 <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer" className="text-[#2563EB] hover:underline">

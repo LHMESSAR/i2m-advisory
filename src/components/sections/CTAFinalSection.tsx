@@ -206,7 +206,7 @@ export function CTAFinalSection() {
 
             {serverError && (
               <p className="mt-3 text-xs text-red-400 text-center" role="alert">
-                Une erreur est survenue. Contactez-nous directement à contact@i2m-advisory.fr
+                Une erreur est survenue. Contactez-nous directement à i2m.advisory@gmail.com
               </p>
             )}
 
@@ -214,8 +214,8 @@ export function CTAFinalSection() {
               Données traitées conformément au RGPD. Aucun démarchage commercial.
               <br />
               Ou contactez-nous directement :{" "}
-              <a href="mailto:contact@i2m-advisory.fr" className="text-slate-400 hover:text-white transition-colors underline underline-offset-2">
-                contact@i2m-advisory.fr
+              <a href="mailto:i2m.advisory@gmail.com" className="text-slate-400 hover:text-white transition-colors underline underline-offset-2">
+                i2m.advisory@gmail.com
               </a>
             </p>
           </motion.form>

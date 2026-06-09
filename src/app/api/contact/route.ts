@@ -28,7 +28,7 @@ export async function POST(req: NextRequest) {
     // const resend = new Resend(process.env.RESEND_API_KEY);
     // await resend.emails.send({
     //   from: "site@i2m-advisory.fr",
-    //   to: "contact@i2m-advisory.fr",
+    //   to: "i2m.advisory@gmail.com",
     //   subject: `Nouveau contact — ${name} (${company})`,
     //   html: `<p><strong>De :</strong> ${name} &lt;${email}&gt;</p>
     //          <p><strong>Société :</strong> ${company}</p>

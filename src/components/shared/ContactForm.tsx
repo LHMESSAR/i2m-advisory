@@ -179,7 +179,7 @@ export function ContactForm() {
       {serverError && (
         <p role="alert" className="text-sm text-red-600 flex items-center gap-2">
           <AlertCircle className="w-4 h-4" aria-hidden="true" />
-          Une erreur est survenue. Contactez-nous directement à contact@i2m-advisory.fr
+          Une erreur est survenue. Contactez-nous directement à i2m.advisory@gmail.com
         </p>
       )}
 
