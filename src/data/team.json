@@ -1,0 +1,29 @@
+[
+  {
+    "id": "team-01",
+    "name": "Fondateur & Associé",
+    "role": "Managing Partner",
+    "bio": "15 ans d'expérience dans la donnée pour l'industrie financière. Ancien directeur de programme dans une grande banque dépositaire, il a fondé I2M Advisory en 2010 avec la conviction que les acteurs financiers ont besoin d'un conseil indépendant, expert et engagé.",
+    "expertise": ["Asset Management", "Data Strategy", "Gouvernance"],
+    "linkedin": "#",
+    "placeholder": true
+  },
+  {
+    "id": "team-02",
+    "name": "Associée — Conformité & Réglementaire",
+    "role": "Partner, Regulatory Practice",
+    "bio": "Ancienne responsable conformité dans une société de gestion, elle dirige la practice réglementaire d'I2M Advisory. Référente SFDR, MiFID II et AIFMD, elle accompagne les équipes compliance dans la mise en œuvre opérationnelle des nouvelles exigences.",
+    "expertise": ["SFDR", "MiFID II", "AIFMD", "Conformité"],
+    "linkedin": "#",
+    "placeholder": true
+  },
+  {
+    "id": "team-03",
+    "name": "Directeur — Data Engineering",
+    "role": "Director, Data & Technology",
+    "bio": "Expert Azure et architectures data-at-scale, il pilote les projets de transformation technologique chez nos clients. Certifié Azure, il a déployé plusieurs Data Platforms dans le secteur financier.",
+    "expertise": ["Azure", "Databricks", "Data Engineering", "Cloud"],
+    "linkedin": "#",
+    "placeholder": true
+  }
+]

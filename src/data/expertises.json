@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "asset-management",
+    "title": "Asset Management",
+    "shortTitle": "Asset Management",
+    "description": "Accompagnement des sociétés de gestion sur la qualité et la gouvernance des données d'actifs, la production de reportings réglementaires et la modernisation des chaînes opérationnelles.",
+    "icon": "BarChart3",
+    "tags": ["NAV", "AUM", "Factsheet", "SFDR", "Reporting fonds"],
+    "featured": true,
+    "heroTitle": "Maîtriser la donnée au cœur de la gestion d'actifs",
+    "heroSubtitle": "De la production des VNI à la distribution des reportings réglementaires, I2M Advisory accompagne les sociétés de gestion dans la modernisation et l'industrialisation de leur chaîne data.",
+    "approach": {
+      "title": "Notre approche asset management",
+      "intro": "La gestion d'actifs est confrontée à une double pression : la densification réglementaire (SFDR, MiFID II, AIFMD) et les exigences croissantes des investisseurs institutionnels en matière de transparence et de granularité de données. I2M Advisory intervient à chaque nœud de cette chaîne.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Diagnostic de la chaîne data",
+          "description": "Cartographie des flux depuis les systèmes source (OMS, PMS, dépositaires) jusqu'aux reportings distribués. Identification des ruptures de qualité, des redondances et des risques opérationnels."
+        },
+        {
+          "number": "02",
+          "title": "Industrialisation & automatisation",
+          "description": "Conception et déploiement de pipelines robustes pour la production de NAV, factsheets, reporting ESG SFDR, fichiers réglementaires (AIFMD Annex IV, PRIIP KID). Réduction des interventions manuelles."
+        },
+        {
+          "number": "03",
+          "title": "Gouvernance & conformité",
+          "description": "Mise en place de référentiels de données, de processus de contrôle qualité et de traçabilité end-to-end pour répondre aux exigences des régulateurs et des auditeurs."
+        },
+        {
+          "number": "04",
+          "title": "Transfert de compétences",
+          "description": "Formation des équipes, documentation des processus et accompagnement au changement pour garantir la pérennité des solutions déployées."
+        }
+      ]
+    },
+    "useCases": [
+      "Refonte de la chaîne de production NAV d'une société de gestion multi-classes d'actifs",
+      "Automatisation des reportings SFDR Article 8 & 9 pour un fonds d'investissement européen",
+      "Migration de la plateforme de données vers Azure Data Platform (Databricks + Data Factory)",
+      "Implémentation d'un référentiel instruments pour une SGP de 15 Mds€ d'AUM",
+      "Mise en conformité AIFMD Annex IV — reporting trimestriel automatisé"
+    ],
+    "benefits": [
+      {
+        "title": "Réduction des délais",
+        "description": "Réduction de 60 à 80% des délais de production des reportings par l'automatisation des flux."
+      },
+      {
+        "title": "Qualité des données",
+        "description": "Taux d'anomalies divisé par 5 grâce aux contrôles qualité systématiques en amont."
+      },
+      {
+        "title": "Conformité réglementaire",
+        "description": "Couverture 100% des exigences SFDR, MiFID II, AIFMD avec traçabilité auditeur."
+      },
+      {
+        "title": "Agilité opérationnelle",
+        "description": "Capacité à intégrer de nouveaux fonds ou nouvelles classes d'actifs en semaines, non en mois."
+      }
+    ]
+  },
+  {
+    "slug": "securities-services",
+    "title": "Securities Services",
+    "shortTitle": "Services Titres",
+    "description": "Expertise en conservation, administration de fonds et règlement-livraison. Accompagnement des acteurs du post-marché dans la modernisation de leurs systèmes de référentiels et flux opérationnels.",
+    "icon": "Landmark",
+    "tags": ["Dépositaire", "Conservation", "Back-office titres", "T2S", "KYC/AML"],
+    "featured": false,
+    "heroTitle": "Transformer le post-marché par la donnée",
+    "heroSubtitle": "Conservation, administration de fonds, règlement-livraison : I2M Advisory accompagne les acteurs des services titres dans la modernisation de leurs infrastructures data et la conformité réglementaire.",
+    "approach": {
+      "title": "Notre approche services titres",
+      "intro": "Le secteur des services titres est en pleine mutation : pression sur les marges, consolidation des acteurs, exigences réglementaires croissantes (CSDR, EMIR, T2S). La maîtrise de la donnée est devenue un levier de différenciation opérationnelle.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Cartographie des flux titres",
+          "description": "Analyse des flux de bout en bout : ordre, confirmation, règlement, conservation, valorisation. Identification des points de friction et des risques opérationnels."
+        },
+        {
+          "number": "02",
+          "title": "Référentiel instruments & contreparties",
+          "description": "Conception de référentiels centralisés (golden source) pour les instruments financiers, les contreparties et les comptes titres. Intégration avec les fournisseurs de données de marché."
+        },
+        {
+          "number": "03",
+          "title": "Conformité & reporting réglementaire",
+          "description": "Automatisation des reportings EMIR, CSDR, reporting de transparence. Mise en place des contrôles KYC/AML sur les flux titres."
+        },
+        {
+          "number": "04",
+          "title": "Modernisation technologique",
+          "description": "Migration vers des architectures cloud-native, remplacement de systèmes legacy, intégration API avec les infrastructures de marché (Euroclear, Clearstream, T2S)."
+        }
+      ]
+    },
+    "useCases": [
+      "Mise en place d'un référentiel instruments centralisé pour un dépositaire majeur",
+      "Automatisation du reporting EMIR Refit pour un établissement bancaire",
+      "Transformation du back-office titres — migration vers une plateforme cloud Azure",
+      "Implémentation d'un dispositif de contrôle qualité des données de règlement"
+    ],
+    "benefits": [
+      {
+        "title": "Réduction des fails",
+        "description": "Diminution des incidents de règlement-livraison par une meilleure qualité des données de référence."
+      },
+      {
+        "title": "Conformité CSDR/EMIR",
+        "description": "Couverture automatisée des obligations réglementaires de déclaration."
+      },
+      {
+        "title": "Efficacité opérationnelle",
+        "description": "Réduction des traitements manuels et des réconciliations chronophages."
+      },
+      {
+        "title": "Interopérabilité",
+        "description": "Connectivité standardisée avec les infrastructures de marché européennes."
+      }
+    ]
+  },
+  {
+    "slug": "data-strategy",
+    "title": "Data Strategy",
+    "shortTitle": "Stratégie Data",
+    "description": "Définition de feuilles de route data, gouvernance des données, architecture data platform et accompagnement des CDO dans la transformation de leur organisation.",
+    "icon": "Database",
+    "tags": ["Data Platform", "Azure", "Databricks", "Gouvernance", "CDO"],
+    "featured": false,
+    "heroTitle": "Une stratégie data ancrée dans le réel financier",
+    "heroSubtitle": "La stratégie data ne se réduit pas à un choix technologique. I2M Advisory construit des feuilles de route pragmatiques, alignées sur les enjeux métier et les contraintes opérationnelles des acteurs financiers.",
+    "approach": {
+      "title": "Notre approche stratégie data",
+      "intro": "Trop de projets data échouent non par manque de technologie, mais par insuffisance d'alignement entre ambitions SI et réalités métier. I2M Advisory part des cas d'usage concrets pour construire des architectures qui créent de la valeur.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Diagnostic & maturité data",
+          "description": "Évaluation de la maturité data de l'organisation : qualité des données, gouvernance existante, architecture technique, compétences disponibles, culture de la donnée."
+        },
+        {
+          "number": "02",
+          "title": "Feuille de route & priorisation",
+          "description": "Co-construction avec les métiers d'une feuille de route pragmatique : identification des cas d'usage à valeur immédiate, séquencement des chantiers, estimation des ressources."
+        },
+        {
+          "number": "03",
+          "title": "Architecture & plateforme",
+          "description": "Conception de l'architecture cible (Data Lakehouse, Medallion Architecture sur Azure/Databricks), choix des outils, patterns d'ingestion et de transformation."
+        },
+        {
+          "number": "04",
+          "title": "Gouvernance & organisation",
+          "description": "Définition des rôles (Data Owner, Steward, Engineer), des processus qualité, du catalogue de données et des instances de gouvernance adaptées à la taille de l'organisation."
+        }
+      ]
+    },
+    "useCases": [
+      "Définition de la feuille de route data d'une société de gestion de 50 Mds€ d'AUM",
+      "Mise en place d'une Data Platform Azure (ADLS Gen2, Databricks, ADF, Power BI)",
+      "Implémentation d'un catalogue de données métier avec glossaire financier",
+      "Accompagnement CDO d'un assureur dans la transformation data de sa direction investissement"
+    ],
+    "benefits": [
+      {
+        "title": "Alignement métier-SI",
+        "description": "Des projets data qui répondent à de vraies questions métier, pas à des ambitions technologiques sans ancrage."
+      },
+      {
+        "title": "Time-to-value accéléré",
+        "description": "Premiers cas d'usage en production en moins de 3 mois grâce à une approche itérative."
+      },
+      {
+        "title": "Scalabilité",
+        "description": "Architectures conçues pour absorber la croissance des volumes et l'intégration de nouvelles sources."
+      },
+      {
+        "title": "Autonomie des équipes",
+        "description": "Formation et accompagnement pour que les équipes maîtrisent leur plateforme au-delà de la mission."
+      }
+    ]
+  },
+  {
+    "slug": "regulatory-compliance",
+    "title": "Conformité Réglementaire",
+    "shortTitle": "Conformité Réglementaire",
+    "description": "Expertise approfondie sur SFDR, MiFID II, AIFMD et les réglementations ESG. Mise en conformité des processus de collecte, traitement et déclaration des données réglementaires.",
+    "icon": "Shield",
+    "tags": ["SFDR", "MiFID II", "AIFMD", "ESG", "Reporting réglementaire"],
+    "featured": false,
+    "heroTitle": "Transformer la conformité en avantage opérationnel",
+    "heroSubtitle": "La multiplication des exigences réglementaires (SFDR, MiFID II, AIFMD, DORA) est perçue comme une contrainte. I2M Advisory vous aide à en faire un accélérateur de qualité opérationnelle.",
+    "approach": {
+      "title": "Notre approche conformité réglementaire",
+      "intro": "Chaque nouvelle réglementation impose des données, des processus et des contrôles supplémentaires. Sans industrialisation, le coût de conformité croît indéfiniment. I2M Advisory conçoit des dispositifs de conformité efficaces et durables.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Analyse d'impact réglementaire",
+          "description": "Décryptage des textes réglementaires, identification des obligations de données, cartographie des gaps entre l'existant et les exigences cibles."
+        },
+        {
+          "number": "02",
+          "title": "Architecture de la donnée réglementaire",
+          "description": "Conception des flux de collecte, de transformation et de contrôle des données nécessaires aux déclarations (SFDR PAI, MiFID II transaction reporting, AIFMD Annex IV)."
+        },
+        {
+          "number": "03",
+          "title": "Automatisation des reportings",
+          "description": "Développement des pipelines de production automatisée : extraction, calcul des indicateurs, génération des fichiers réglementaires, transmission aux régulateurs."
+        },
+        {
+          "number": "04",
+          "title": "Contrôle & audit trail",
+          "description": "Mise en place de contrôles qualité systématiques, de pistes d'audit complètes et de procédures de réconciliation pour sécuriser les déclarations."
+        }
+      ]
+    },
+    "useCases": [
+      "Mise en conformité SFDR Articles 8 & 9 — production des PAI et des reportings périodiques",
+      "Automatisation du transaction reporting MiFID II pour un prestataire de services d'investissement",
+      "Mise en place du dispositif DORA — cartographie des risques IT et des prestataires critiques",
+      "Préparation aux examens AMF — revue des processus de contrôle de la conformité data"
+    ],
+    "benefits": [
+      {
+        "title": "Couverture réglementaire",
+        "description": "100% des obligations de reporting couvertes, avec traçabilité complète pour les audits."
+      },
+      {
+        "title": "Réduction du risque",
+        "description": "Diminution significative du risque de sanction réglementaire par des contrôles automatisés."
+      },
+      {
+        "title": "Efficacité",
+        "description": "Réduction de 70% des charges manuelles liées à la production des reportings réglementaires."
+      },
+      {
+        "title": "Anticipation",
+        "description": "Veille réglementaire permanente pour anticiper les nouvelles exigences avant leur entrée en vigueur."
+      }
+    ]
+  },
+  {
+    "slug": "digital-transformation",
+    "title": "Transformation Digitale",
+    "shortTitle": "Transformation Digitale",
+    "description": "Accompagnement des directions métier et IT dans la modernisation de leurs systèmes d'information, l'automatisation des processus et le déploiement de solutions BI et analytics.",
+    "icon": "Cpu",
+    "tags": ["Azure", "Power BI", "Automatisation", "BI", "Cloud"],
+    "featured": false,
+    "heroTitle": "Moderniser sans rupture, transformer avec méthode",
+    "heroSubtitle": "La transformation digitale dans la finance exige une gestion rigoureuse du risque opérationnel. I2M Advisory conduit des projets de modernisation ambitieux en maintenant la continuité des opérations.",
+    "approach": {
+      "title": "Notre approche transformation digitale",
+      "intro": "Les institutions financières opèrent sur des systèmes critiques avec une tolérance au risque très faible. Nos projets de transformation intègrent cette contrainte dès la conception.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Cadrage & stratégie SI",
+          "description": "Analyse de l'existant (cartographie applicative, dette technique), définition de l'architecture cible, construction du business case et du plan de transition."
+        },
+        {
+          "number": "02",
+          "title": "Conception & développement",
+          "description": "Architecture des solutions, spécifications fonctionnelles et techniques, développement agile avec implication continue des équipes métier."
+        },
+        {
+          "number": "03",
+          "title": "Déploiement & migration",
+          "description": "Stratégie de bascule progressive (run-in-parallel, pilote, généralisation), gestion du risque opérationnel, reprise des données historiques."
+        },
+        {
+          "number": "04",
+          "title": "Adoption & changement",
+          "description": "Formation des utilisateurs, documentation, accompagnement post-déploiement pour maximiser l'adoption et le retour sur investissement."
+        }
+      ]
+    },
+    "useCases": [
+      "Déploiement d'une plateforme BI Power BI pour le pilotage opérationnel d'une société de gestion",
+      "Migration du système de reporting d'un assureur vers Azure (ADLS + Databricks + Power BI)",
+      "Automatisation RPA des processus de réconciliation back-office",
+      "Refonte du portail investisseurs d'une société de gestion — intégration données NAV temps réel"
+    ],
+    "benefits": [
+      {
+        "title": "Gain de productivité",
+        "description": "Automatisation de tâches répétitives libérant les équipes pour des activités à plus forte valeur ajoutée."
+      },
+      {
+        "title": "Visibilité temps réel",
+        "description": "Tableaux de bord et reportings automatisés offrant une vision immédiate des indicateurs clés."
+      },
+      {
+        "title": "Continuité opérationnelle",
+        "description": "Migrations conduites sans rupture de service ni dégradation de la qualité de production."
+      },
+      {
+        "title": "ROI mesurable",
+        "description": "Chaque projet défini avec des KPI précis permettant de mesurer le retour sur investissement."
+      }
+    ]
+  }
+]

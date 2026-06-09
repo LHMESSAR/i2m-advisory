@@ -1,0 +1,74 @@
+[
+  {
+    "id": "insight-01",
+    "slug": "sfdr-donnees-esg-defis-operationnels",
+    "title": "SFDR : les défis opérationnels de la collecte de données ESG",
+    "category": "Conformité réglementaire",
+    "categorySlug": "conformite",
+    "excerpt": "Deux ans après l'entrée en application du règlement SFDR, les gestionnaires d'actifs se heurtent encore à des obstacles majeurs dans la collecte et la normalisation des données ESG. Retour d'expérience terrain.",
+    "date": "2024-03-15",
+    "readingTime": "8 min",
+    "tags": ["SFDR", "ESG", "PAI", "Qualité des données"],
+    "featured": true
+  },
+  {
+    "id": "insight-02",
+    "slug": "data-lakehouse-gestion-actifs",
+    "title": "Data Lakehouse : une architecture adaptée à la gestion d'actifs ?",
+    "category": "Stratégie Data",
+    "categorySlug": "data-strategy",
+    "excerpt": "L'architecture Medallion sur Azure Databricks séduit de plus en plus de sociétés de gestion. Analyse des avantages, des contraintes et des conditions de succès d'un tel projet de modernisation.",
+    "date": "2024-02-08",
+    "readingTime": "12 min",
+    "tags": ["Data Lakehouse", "Azure", "Databricks", "Architecture"],
+    "featured": true
+  },
+  {
+    "id": "insight-03",
+    "slug": "mifid-ii-transaction-reporting-qualite",
+    "title": "MiFID II Transaction Reporting : qualité des données sous pression",
+    "category": "Conformité réglementaire",
+    "categorySlug": "conformite",
+    "excerpt": "Les contrôles de l'ESMA se renforcent sur la qualité des déclarations de transactions. Les établissements financiers doivent revoir leurs dispositifs de contrôle qualité amont pour éviter les rejets et les sanctions.",
+    "date": "2024-01-22",
+    "readingTime": "6 min",
+    "tags": ["MiFID II", "ESMA", "Transaction reporting", "Qualité"],
+    "featured": false
+  },
+  {
+    "id": "insight-04",
+    "slug": "gouvernance-donnees-societe-gestion",
+    "title": "Gouvernance des données : par où commencer dans une SGP de taille moyenne ?",
+    "category": "Stratégie Data",
+    "categorySlug": "data-strategy",
+    "excerpt": "La gouvernance des données est souvent perçue comme un chantier réservé aux grands établissements. Retour sur une approche pragmatique et séquencée adaptée aux sociétés de gestion de 5 à 30 Mds€ d'AUM.",
+    "date": "2023-11-30",
+    "readingTime": "10 min",
+    "tags": ["Gouvernance", "Data Owner", "Catalogue de données"],
+    "featured": false
+  },
+  {
+    "id": "insight-05",
+    "slug": "dora-cartographie-risques-prestataires",
+    "title": "DORA : la cartographie des prestataires ICT, un chantier data avant tout",
+    "category": "Conformité réglementaire",
+    "categorySlug": "conformite",
+    "excerpt": "Le règlement DORA impose aux établissements financiers une cartographie précise de leurs dépendances aux prestataires ICT. Un exercice qui révèle souvent des lacunes dans la gouvernance des données contractuelles.",
+    "date": "2023-10-12",
+    "readingTime": "7 min",
+    "tags": ["DORA", "Risque IT", "Prestataires ICT"],
+    "featured": false
+  },
+  {
+    "id": "insight-06",
+    "slug": "nav-automatisation-enjeux-qualite",
+    "title": "Automatisation de la production NAV : enjeux de qualité et de contrôle",
+    "category": "Asset Management",
+    "categorySlug": "asset-management",
+    "excerpt": "L'automatisation de la production des valeurs liquidatives réduit les délais et les erreurs, mais déplace les risques opérationnels. Comment concevoir des contrôles adaptés à une chaîne entièrement automatisée ?",
+    "date": "2023-09-05",
+    "readingTime": "9 min",
+    "tags": ["NAV", "Automatisation", "Contrôle qualité", "Opérations"],
+    "featured": false
+  }
+]

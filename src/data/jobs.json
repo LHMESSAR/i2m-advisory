@@ -1,0 +1,74 @@
+[
+  {
+    "id": "job-01",
+    "title": "Consultant Senior Data — Finance",
+    "type": "CDI",
+    "location": "Paris",
+    "experience": "4–8 ans",
+    "category": "Conseil",
+    "description": "Vous intervenez sur des missions de transformation data chez nos clients institutionnels (sociétés de gestion, banques dépositaires, assureurs). Vous combinez une expertise métier finance solide et une maîtrise des outils data modernes (Azure, Python, SQL).",
+    "requirements": [
+      "Formation Bac+5 (école de commerce, ingénieur ou université)",
+      "4 à 8 ans d'expérience en conseil ou maîtrise d'ouvrage dans le secteur financier",
+      "Bonne connaissance d'au moins un domaine : asset management, securities services, conformité réglementaire",
+      "Maîtrise de SQL et d'au moins un langage de scripting (Python ou équivalent)",
+      "Expérience sur des projets de transformation de données",
+      "Capacité à gérer la relation client et à mener des ateliers métier"
+    ],
+    "nice_to_have": [
+      "Expérience sur Azure (ADF, ADLS, Databricks)",
+      "Connaissance de SFDR, MiFID II ou AIFMD",
+      "Expérience en gestion de projet"
+    ],
+    "posted": "2024-03-01",
+    "active": true
+  },
+  {
+    "id": "job-02",
+    "title": "Consultant Data Engineer — Finance",
+    "type": "CDI",
+    "location": "Paris",
+    "experience": "2–5 ans",
+    "category": "Technique",
+    "description": "Au sein de nos équipes data, vous concevez et déployez des pipelines de données pour nos clients financiers. Vous travaillez sur des plateformes cloud modernes (Azure) et contribuez à l'industrialisation des processus de traitement de la donnée.",
+    "requirements": [
+      "Formation ingénieur ou master en informatique / data",
+      "2 à 5 ans d'expérience en data engineering",
+      "Maîtrise de Python et SQL",
+      "Expérience avec Azure (Data Factory, ADLS, Databricks) ou équivalent cloud",
+      "Connaissance des patterns ETL/ELT et des architectures data modernes",
+      "Intérêt pour le secteur financier"
+    ],
+    "nice_to_have": [
+      "Expérience dans le secteur financier (banque, asset management, assurance)",
+      "Connaissance de dbt, Spark ou Kafka",
+      "Certification Azure (DP-203 ou AZ-900)"
+    ],
+    "posted": "2024-02-15",
+    "active": true
+  },
+  {
+    "id": "job-03",
+    "title": "Consultant Junior — Finance & Data",
+    "type": "CDI",
+    "location": "Paris",
+    "experience": "0–2 ans",
+    "category": "Junior",
+    "description": "Vous débutez votre carrière dans le conseil spécialisé en finance et donnée. Accompagné par nos seniors, vous participez à des missions variées chez nos clients et montez en compétence sur les problématiques data de l'industrie financière.",
+    "requirements": [
+      "Formation Bac+5 (école de commerce, ingénieur ou master finance/data)",
+      "Fort intérêt pour la finance de marché ou la gestion d'actifs",
+      "Curiosité technologique, appétence pour la donnée",
+      "Rigueur, sens de l'organisation, qualités relationnelles",
+      "Maîtrise d'Excel (tableaux croisés dynamiques, formules avancées)",
+      "Niveau d'anglais opérationnel"
+    ],
+    "nice_to_have": [
+      "Stage ou première expérience en banque / SGP / assurance",
+      "Notions de SQL ou Python",
+      "Connaissance des marchés financiers"
+    ],
+    "posted": "2024-03-10",
+    "active": true
+  }
+]

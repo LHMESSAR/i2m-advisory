@@ -1,0 +1,70 @@
+[
+  {
+    "id": "case-01",
+    "title": "Refonte de la chaîne data NAV",
+    "client": "Société de gestion européenne",
+    "sector": "asset-management",
+    "sectorLabel": "Asset Management",
+    "description": "Refonte complète de la chaîne de production des valeurs liquidatives pour une SGP gérant 12 milliards d'euros d'actifs. Élimination des traitements manuels, mise en place de contrôles automatiques et réduction du délai de publication.",
+    "duration": "8 mois",
+    "team": "4 consultants",
+    "tags": ["NAV", "Data Pipeline", "Azure", "Python"],
+    "metrics": [
+      { "label": "Réduction du délai de production", "value": "−75%" },
+      { "label": "Anomalies détectées automatiquement", "value": "98%" },
+      { "label": "Fonds couverts", "value": "120+" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "case-02",
+    "title": "Automatisation des reportings SFDR",
+    "client": "Gestionnaire d'actifs institutionnel",
+    "sector": "regulatory-compliance",
+    "sectorLabel": "Conformité Réglementaire",
+    "description": "Mise en place d'un dispositif de collecte et de traitement des données ESG pour la production des reportings SFDR Articles 8 et 9, incluant les indicateurs PAI (Principal Adverse Impacts) et les rapports périodiques.",
+    "duration": "6 mois",
+    "team": "3 consultants",
+    "tags": ["SFDR", "ESG", "PAI", "Reporting réglementaire"],
+    "metrics": [
+      { "label": "Temps de production des PAI", "value": "−80%" },
+      { "label": "Indicateurs ESG couverts", "value": "64" },
+      { "label": "Fonds Article 8/9 concernés", "value": "35" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "case-03",
+    "title": "Data Platform Azure pour la gestion d'actifs",
+    "client": "Société de gestion multi-classes d'actifs",
+    "sector": "data-strategy",
+    "sectorLabel": "Stratégie Data",
+    "description": "Conception et déploiement d'une Data Platform cloud-native sur Azure (ADLS Gen2, Azure Data Factory, Databricks) pour centraliser les données de gestion, automatiser les reportings et offrir une capacité analytique self-service aux équipes métier.",
+    "duration": "12 mois",
+    "team": "5 consultants",
+    "tags": ["Azure", "Databricks", "Data Lakehouse", "Power BI"],
+    "metrics": [
+      { "label": "Sources de données intégrées", "value": "18" },
+      { "label": "Délai de mise à disposition des données", "value": "−90%" },
+      { "label": "Utilisateurs BI autonomes", "value": "45+" }
+    ],
+    "featured": false
+  },
+  {
+    "id": "case-04",
+    "title": "Référentiel instruments — dépositaire bancaire",
+    "client": "Établissement bancaire dépositaire",
+    "sector": "securities-services",
+    "sectorLabel": "Securities Services",
+    "description": "Mise en place d'un référentiel instruments centralisé (golden source) pour un dépositaire bancaire gérant 200 milliards d'euros d'actifs conservés. Intégration des fournisseurs de données de marché et consolidation des référentiels existants.",
+    "duration": "10 mois",
+    "team": "4 consultants",
+    "tags": ["Référentiel", "Golden Source", "ISIN", "Conservation"],
+    "metrics": [
+      { "label": "Instruments couverts", "value": "500 000+" },
+      { "label": "Taux de réconciliation automatique", "value": "99.2%" },
+      { "label": "Réduction des fails de règlement", "value": "−40%" }
+    ],
+    "featured": false
+  }
+]
