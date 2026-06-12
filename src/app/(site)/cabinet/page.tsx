@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 };
 
 const TIMELINE = [
-  { year: "2010", event: "Fondation d'I2M Advisory à Paris. Premiers engagements dans la gestion d'actifs." },
+  { year: "2010", event: "Fondation d'I2M Advisory à Roissy en Brie. Premiers engagements dans la gestion d'actifs." },
   { year: "2013", event: "Développement de la practice Securities Services. Référencement auprès d'un dépositaire bancaire majeur." },
   { year: "2016", event: "Lancement de la practice Conformité Réglementaire. Premières missions MiFID II." },
   { year: "2018", event: "Intégration de la dimension cloud et data engineering. Partenariat Azure." },
