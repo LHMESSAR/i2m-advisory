@@ -38,7 +38,7 @@ export default function ContactPage() {
             </h1>
             <p className="text-lg text-slate-300 leading-relaxed max-w-2xl">
               Décrivez votre contexte et vos enjeux. Un associé d&apos;I2M Advisory vous répond sous
-              48 heures ouvrées pour proposer une note de cadrage initiale.
+              24 heures ouvrées pour proposer une note de cadrage initiale.
             </p>
           </div>
         </Container>
