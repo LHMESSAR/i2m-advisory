@@ -4,8 +4,8 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import Link from "next/link";
 import { ArrowRight, Clock, Calendar } from "lucide-react";
-import { Container } from "@/components/shared/Container";
-import { Heading } from "@/components/shared/Heading";
+import { Container } from "@/components/elements/Container";
+import { Heading } from "@/components/elements/Heading";
 import insightsData from "@/data/insights.json";
 
 const RECENT = insightsData.slice(0, 3);

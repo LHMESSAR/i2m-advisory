@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
-import { HeroSection } from "@/components/sections/HeroSection";
-import { KPISection } from "@/components/sections/KPISection";
-import { ExpertisesSection } from "@/components/sections/ExpertisesSection";
-import { ValeursSection } from "@/components/sections/ValeursSection";
-import { ApprocheSection } from "@/components/sections/ApprocheSection";
-import { ReferencesSection } from "@/components/sections/ReferencesSection";
-import { InsightsSection } from "@/components/sections/InsightsSection";
-import { CarrieresSection } from "@/components/sections/CarrieresSection";
-import { CTAFinalSection } from "@/components/sections/CTAFinalSection";
+import { HeroSection } from "@/components/accueil/HeroSection";
+import { KPISection } from "@/components/accueil/KPISection";
+import { ExpertisesSection } from "@/components/accueil/ExpertisesSection";
+import { ValeursSection } from "@/components/accueil/ValeursSection";
+import { ApprocheSection } from "@/components/accueil/ApprocheSection";
+import { ReferencesSection } from "@/components/accueil/ReferencesSection";
+import { InsightsSection } from "@/components/accueil/InsightsSection";
+import { CarrieresSection } from "@/components/accueil/CarrieresSection";
+import { CTAFinalSection } from "@/components/accueil/CTAFinalSection";
 
 export const metadata: Metadata = {
   title: "I2M Advisory — Conseil Data & Finance",

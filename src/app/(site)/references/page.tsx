@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Clock, Users } from "lucide-react";
-import { Container } from "@/components/shared/Container";
-import { CTAButton } from "@/components/shared/CTAButton";
+import { Container } from "@/components/elements/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
 import casesData from "@/data/cases.json";
 
 export const metadata: Metadata = {

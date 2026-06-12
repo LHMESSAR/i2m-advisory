@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, X } from "lucide-react";
-import { Logo } from "@/components/shared/Logo";
+import { Logo } from "@/components/elements/Logo";
 import { cn } from "@/lib/utils";
 
 const NAV_LINKS = [

@@ -1,8 +1,8 @@
 "use client";
 
 import { motion, type Variants } from "framer-motion";
-import { CTAButton } from "@/components/shared/CTAButton";
-import { Container } from "@/components/shared/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
+import { Container } from "@/components/elements/Container";
 
 const CLIENTS = [
   { name: "CANDRIAM", abbr: "CANDRIAM" },

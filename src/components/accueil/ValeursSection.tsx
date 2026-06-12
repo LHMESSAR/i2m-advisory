@@ -3,8 +3,8 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Lightbulb, Award, Users, TrendingUp } from "lucide-react";
-import { Container } from "@/components/shared/Container";
-import { Heading } from "@/components/shared/Heading";
+import { Container } from "@/components/elements/Container";
+import { Heading } from "@/components/elements/Heading";
 
 const VALEURS = [
   {

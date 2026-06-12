@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { Container } from "@/components/shared/Container";
-import { CTAButton } from "@/components/shared/CTAButton";
+import { Container } from "@/components/elements/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
 
 export default function NotFound() {
   return (

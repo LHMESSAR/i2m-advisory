@@ -7,7 +7,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 import { Send, CheckCircle, AlertCircle } from "lucide-react";
 import { useState } from "react";
-import { Container } from "@/components/shared/Container";
+import { Container } from "@/components/elements/Container";
 
 const schema = z.object({
   name: z.string().min(2, "Prénom et nom requis (2 caractères minimum)"),

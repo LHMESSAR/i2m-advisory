@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Lightbulb, Award, Users, TrendingUp } from "lucide-react";
-import { LinkedInIcon } from "@/components/shared/LinkedInIcon";
-import { Container } from "@/components/shared/Container";
-import { CTAButton } from "@/components/shared/CTAButton";
+import { LinkedInIcon } from "@/components/elements/LinkedInIcon";
+import { Container } from "@/components/elements/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
 import teamData from "@/data/team.json";
 
 export const metadata: Metadata = {

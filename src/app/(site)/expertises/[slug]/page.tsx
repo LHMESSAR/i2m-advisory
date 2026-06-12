@@ -2,8 +2,8 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { BarChart3, Landmark, Database, Shield, Cpu, CheckCircle, ArrowRight } from "lucide-react";
 import Link from "next/link";
-import { Container } from "@/components/shared/Container";
-import { CTAButton } from "@/components/shared/CTAButton";
+import { Container } from "@/components/elements/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
 import expertisesData from "@/data/expertises.json";
 
 const ICONS = { BarChart3, Landmark, Database, Shield, Cpu };

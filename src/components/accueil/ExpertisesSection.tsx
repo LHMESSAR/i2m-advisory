@@ -4,8 +4,8 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import Link from "next/link";
 import { BarChart3, Landmark, Database, Shield, Cpu, ArrowRight } from "lucide-react";
-import { Container } from "@/components/shared/Container";
-import { Heading } from "@/components/shared/Heading";
+import { Container } from "@/components/elements/Container";
+import { Heading } from "@/components/elements/Heading";
 
 const ICONS = { BarChart3, Landmark, Database, Shield, Cpu };
 

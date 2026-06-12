@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Clock, Calendar, ArrowRight } from "lucide-react";
-import { Container } from "@/components/shared/Container";
+import { Container } from "@/components/elements/Container";
 import insightsData from "@/data/insights.json";
 
 export const metadata: Metadata = {

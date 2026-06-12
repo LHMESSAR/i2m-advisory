@@ -2,8 +2,8 @@
 
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { CTAButton } from "@/components/shared/CTAButton";
-import { Container } from "@/components/shared/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
+import { Container } from "@/components/elements/Container";
 import { CheckCircle } from "lucide-react";
 
 const ATOUTS = [
@@ -106,7 +106,7 @@ export function CarrieresSection() {
             </div>
 
             <p className="text-[#475569] leading-relaxed">
-              I2M Advisory recrute des consultants seniors et juniors alliant rigueur métier finance
+              I2M Advisory recrute des consultants seniorssur la partie B-one. et juniors alliant rigueur métier finance
               et curiosité technologique. L&apos;environnement est exigeant, les missions sont stimulantes,
               la progression est rapide.
             </p>

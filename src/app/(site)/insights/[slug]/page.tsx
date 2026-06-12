@@ -5,8 +5,8 @@ import fs from "fs";
 import path from "path";
 import { Calendar, Clock, ArrowLeft, ArrowRight } from "lucide-react";
 import { MDXRemote } from "next-mdx-remote/rsc";
-import { Container } from "@/components/shared/Container";
-import { CTAButton } from "@/components/shared/CTAButton";
+import { Container } from "@/components/elements/Container";
+import { CTAButton } from "@/components/elements/CTAButton";
 import insightsData from "@/data/insights.json";
 
 type PageProps = { params: Promise<{ slug: string }> };

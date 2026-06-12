@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { motion, useInView } from "framer-motion";
-import { Container } from "@/components/shared/Container";
+import { Container } from "@/components/elements/Container";
 
 interface KPI {
   value: number;

@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { Mail, MapPin } from "lucide-react";
-import { Logo } from "@/components/shared/Logo";
-import { LinkedInIcon } from "@/components/shared/LinkedInIcon";
-import { Container } from "@/components/shared/Container";
+import { Logo } from "@/components/elements/Logo";
+import { LinkedInIcon } from "@/components/elements/LinkedInIcon";
+import { Container } from "@/components/elements/Container";
 
 const EXPERTISES = [
   { href: "/expertises/asset-management", label: "Asset Management" },

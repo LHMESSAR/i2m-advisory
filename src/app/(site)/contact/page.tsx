@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Mail, MapPin, Clock } from "lucide-react";
-import { Container } from "@/components/shared/Container";
-import { ContactForm } from "@/components/shared/ContactForm";
-import { LinkedInIcon } from "@/components/shared/LinkedInIcon";
+import { Container } from "@/components/elements/Container";
+import { ContactForm } from "@/components/elements/ContactForm";
+import { LinkedInIcon } from "@/components/elements/LinkedInIcon";
 
 export const metadata: Metadata = {
   title: "Contact — I2M Advisory",
