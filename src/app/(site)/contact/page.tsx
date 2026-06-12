@@ -117,7 +117,7 @@ export default function ContactPage() {
                 <h3 className="text-sm font-bold text-[#0F172A] mb-3">Ce à quoi vous pouvez vous attendre</h3>
                 <ul className="space-y-2">
                   {[
-                    "Réponse sous 48 heures ouvrées",
+                    "Réponse sous 24 heures ouvrées",
                     "Échange de 30 min avec un associé",
                     "Note de cadrage initiale gratuite",
                     "Aucun démarchage commercial non sollicité",
