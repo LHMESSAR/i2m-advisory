@@ -7,7 +7,7 @@ import jobsData from "@/data/jobs.json";
 
 export const metadata: Metadata = {
   title: "Carrières — Rejoindre I2M Advisory",
-  description: urgent 
+  description:
     "I2M Advisory recrute des consultants data et finance. Missions stimulantes, culture de l'excellence, progression rapide dans le conseil spécialisé.",
   alternates: { canonical: "https://i2m-advisory.fr/carrieres" },
 };
