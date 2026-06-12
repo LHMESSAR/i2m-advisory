@@ -106,9 +106,9 @@ export function CarrieresSection() {
             </div>
 
             <p className="text-[#475569] leading-relaxed">
-              I2M Advisory recrute des consultants seniorssur la partie B-one. et juniors alliant rigueur métier finance
+              I2M Advisory recrute des consultants seniors sur la partie B-one. et juniors alliant rigueur métier finance
               et curiosité technologique. L&apos;environnement est exigeant, les missions sont stimulantes,
-              la progression est rapide.
+              la progression est rapide et assurée.
             </p>
 
             <ul className="space-y-3" role="list">
