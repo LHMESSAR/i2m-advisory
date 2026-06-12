@@ -8,7 +8,7 @@ import { LinkedInIcon } from "@/components/shared/LinkedInIcon";
 export const metadata: Metadata = {
   title: "Contact — I2M Advisory",
   description:
-    "Contactez I2M Advisory pour discuter de votre projet data & finance. Un associé vous répond sous 48h.",
+    "Contactez I2M Advisory pour discuter de votre projet data & finance. Un associé vous répond sous 24h.",
   alternates: { canonical: "https://i2m-advisory.fr/contact" },
 };
 

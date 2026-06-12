@@ -6,14 +6,14 @@ import { CTAButton } from "@/components/shared/CTAButton";
 import jobsData from "@/data/jobs.json";
 
 export const metadata: Metadata = {
-  title: "Carrières — Rejoindre I2M Advisory Urgent",
-  description:
+  title: "Carrières — Rejoindre I2M Advisory",
+  description: urgent 
     "I2M Advisory recrute des consultants data et finance. Missions stimulantes, culture de l'excellence, progression rapide dans le conseil spécialisé.",
   alternates: { canonical: "https://i2m-advisory.fr/carrieres" },
 };
 
 const PROCESS = [
-  { step: "01", title: "Candidature", description: "Envoi de votre CV et d'une présentation courte. Réponse sous 5 jours ouvrés." },
+  { step: "01", title: "Candidature1", description: "Envoi de votre CV et d'une présentation courte. Réponse sous 5 jours ouvrés." },
   { step: "02", title: "Échange téléphonique", description: "30 minutes avec un associé pour comprendre votre parcours et vos ambitions." },
   { step: "03", title: "Entretien technique", description: "1h avec un consultant senior sur votre expertise métier et/ou technique." },
   { step: "04", title: "Rencontre de l'équipe", description: "Demi-journée pour rencontrer l'équipe et valider l'adéquation réciproque." },
